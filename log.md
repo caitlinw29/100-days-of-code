@@ -9,3 +9,13 @@
 **Link(s) to work**:
 1. [Snake Game with Ania](https://scrimba.com/learn/snakegame)
 2. [Ants Go Marching](https://github.com/caitlinw29/AntsGoMarching)
+
+### Day 2: November 29, 2021
+
+**Today's Progress**: I've added a good bit of styling into Ants Go Marching, and fixed a few issues (such as the food spawning where the ants were).
+
+**Thoughts**: Definitely spent longer than I wanted to on the checkerboard pattern, but it was a good learning opportunity!
+
+**Link(s) to work**:
+1. [Snake Game with Ania](https://scrimba.com/learn/snakegame)
+2. [Ants Go Marching](https://github.com/caitlinw29/AntsGoMarching)
