@@ -19,3 +19,13 @@
 **Link(s) to work**:
 1. [Snake Game with Ania](https://scrimba.com/learn/snakegame)
 2. [Ants Go Marching](https://github.com/caitlinw29/AntsGoMarching)
+
+### Day 3: November 30, 2021
+
+**Today's Progress**: I've added some small bits and bobs to the game, and got the ants to face the right direction.
+
+**Thoughts**: The ants' directions were tricky! Probably could refactor that code.
+
+**Link(s) to work**:
+1. [Snake Game with Ania](https://scrimba.com/learn/snakegame)
+2. [Ants Go Marching](https://github.com/caitlinw29/AntsGoMarching)
