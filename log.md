@@ -8,7 +8,8 @@
 
 **Link(s) to work**:
 1. [Snake Game with Ania](https://scrimba.com/learn/snakegame)
-2. [Ants Go Marching](https://github.com/caitlinw29/AntsGoMarching)
+2. [Ants Go Marching - Github](https://github.com/caitlinw29/AntsGoMarching)
+3. [Ants Go Marching - Deployed](https://caitlinw29.github.io/AntsGoMarching/)
 
 ### Day 2: November 29, 2021
 
@@ -18,7 +19,8 @@
 
 **Link(s) to work**:
 1. [Snake Game with Ania](https://scrimba.com/learn/snakegame)
-2. [Ants Go Marching](https://github.com/caitlinw29/AntsGoMarching)
+2. [Ants Go Marching - Github](https://github.com/caitlinw29/AntsGoMarching)
+3. [Ants Go Marching - Deployed](https://caitlinw29.github.io/AntsGoMarching/)
 
 ### Day 3: November 30, 2021
 
@@ -28,4 +30,20 @@
 
 **Link(s) to work**:
 1. [Snake Game with Ania](https://scrimba.com/learn/snakegame)
-2. [Ants Go Marching](https://github.com/caitlinw29/AntsGoMarching)
+2. [Ants Go Marching - Github](https://github.com/caitlinw29/AntsGoMarching)
+3. [Ants Go Marching - Deployed](https://caitlinw29.github.io/AntsGoMarching/)
+
+### Day 4: December 1, 2021
+
+**Today's Progress**: Submitted Ants Go Marching to the GitHubGameOff. Added owls, difficulty levels, and spruced things up a bit. Also completed multiple challenges such as Lighthouse Labs, Advent of Code, and 24 Days of JavaScriptmas!
+
+**Thoughts**: Today felt really productive, I also tried and failed to do the first Dev Advent challenge. I had no idea how to find an emoji in an array, hence the failure. I'll try that one again later when I have extra time. 
+
+**Link(s) to work**:
+1. [Snake Game with Ania](https://scrimba.com/learn/snakegame)
+2. [Ants Go Marching - Github](https://github.com/caitlinw29/AntsGoMarching)
+3. [Ants Go Marching - Deployed](https://caitlinw29.github.io/AntsGoMarching/)
+
+
+
+
