@@ -44,6 +44,14 @@
 2. [Ants Go Marching - Github](https://github.com/caitlinw29/AntsGoMarching)
 3. [Ants Go Marching - Deployed](https://caitlinw29.github.io/AntsGoMarching/)
 
+### Day 5: December 2, 2021
+
+**Today's Progress**: Completed multiple challenges such as Lighthouse Labs, Advent of Code, and 24 Days of JavaScriptmas! Also was able to figure out day 2 of Dev Advent!
+
+**Thoughts**: I still can't find that stinking reindeer in Day 1 Dev Advent...I'll get it eventually. Super proud that I got all of my tests to pass for Day 2!
+
+**Link(s) to work**:
+1. [Toggle Christmas - 24 Days of JavaScriptmas](https://scrimba.com/scrim/co63141889609e2e9f19b8957)
 
 
 
