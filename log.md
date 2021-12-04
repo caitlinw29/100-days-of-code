@@ -62,5 +62,14 @@
 **Link(s) to work**:
 1. [Fix UI - 24 Days of JavaScriptmas](https://scrimba.com/scrim/coe794a28a31c586b2e857001)
 
+### Day 7: December 4, 2021
+
+**Today's Progress**: Completed Lighthouse Labs and 24 Days of JavaScriptmas! Tech Together Seattle Hackathon: saw a few workshops and worked on my hack with my team! 
+
+**Thoughts**: For our hack, we are submitting a Figma file rather than an actual app/website. This is new to me, but not unwelcome. It will be interesting to focus on the UI side rather than actual code.
+
+**Link(s) to work**:
+1. [Shopping List - 24 Days of JavaScriptmas](https://scrimba.com/scrim/co8b64631a99194150870eb10)
+
 
 
