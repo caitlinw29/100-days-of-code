@@ -53,5 +53,14 @@
 **Link(s) to work**:
 1. [Toggle Christmas - 24 Days of JavaScriptmas](https://scrimba.com/scrim/co63141889609e2e9f19b8957)
 
+### Day 6: December 3, 2021
+
+**Today's Progress**: Completed Lighthouse Labs and 24 Days of JavaScriptmas! Tech Together Seattle Hackathon starts tonight - attended multiple sessions and met my team to decide on a hack!
+
+**Thoughts**: Struggled with Dev Advent and Advent of Code, will have to try again later. Super excited to work on our prototype for the hackathon!
+
+**Link(s) to work**:
+1. [Fix UI - 24 Days of JavaScriptmas](https://scrimba.com/scrim/coe794a28a31c586b2e857001)
+
 
 
