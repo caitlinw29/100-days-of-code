@@ -71,5 +71,12 @@
 **Link(s) to work**:
 1. [Shopping List - 24 Days of JavaScriptmas](https://scrimba.com/scrim/co8b64631a99194150870eb10)
 
+### Day 8: December 5, 2021
 
+**Today's Progress**: Completed Lighthouse Labs and 24 Days of JavaScriptmas! Tech Together Seattle Hackathon hack has been submitted!
 
+**Thoughts**: Happy to have completed my first Hackathon!
+
+**Link(s) to work**:
+1. [Christmas Card Writer - 24 Days of JavaScriptmas](https://scrimba.com/scrim/co216424988bddeae3f4ec6a6)
+2. [Integrate](https://devpost.com/software/integrate-fpvd01)
