@@ -70,6 +70,7 @@
 
 **Link(s) to work**:
 1. [Shopping List - 24 Days of JavaScriptmas](https://scrimba.com/scrim/co8b64631a99194150870eb10)
+2. [Integrate](https://devpost.com/software/integrate-fpvd01)
 
 ### Day 8: December 5, 2021
 
@@ -80,3 +81,14 @@
 **Link(s) to work**:
 1. [Christmas Card Writer - 24 Days of JavaScriptmas](https://scrimba.com/scrim/co216424988bddeae3f4ec6a6)
 2. [Integrate](https://devpost.com/software/integrate-fpvd01)
+
+### Day 9: December 6, 2021
+
+**Today's Progress**: Completed Lighthouse Labs and 24 Days of JavaScriptmas! Started my bootcamp. Met with a fellow programmer-in-training to collaborate on a tutorial based project. Also nearly hit 70wpm on MonkeyType! 
+
+**Thoughts**: Today was quite busy! I'm quite proud of my new highest typing speed, as I was a "hunt and peck" typer 5-6 months ago, with average touch typing speeds of 20-30wpm. I enjoyed meeting Ege to pair up on a project from Scrimba. I really want to take it a step further and customize our website (we are using the Scrimba tutorial to build it), rather than just following the tutorials.
+
+**Link(s) to work**:
+1. [Text Christmassifier - 24 Days of JavaScriptmas](https://scrimba.com/scrim/co87048ab91c24c66cdd556be)
+2. [Space Travel Website](https://github.com/caitlinw29/Space-Travel-Site)
+
