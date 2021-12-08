@@ -84,11 +84,22 @@
 
 ### Day 9: December 6, 2021
 
-**Today's Progress**: Completed Lighthouse Labs and 24 Days of JavaScriptmas! Started my bootcamp. Met with a fellow programmer-in-training to collaborate on a tutorial based project. Also nearly hit 70wpm on MonkeyType! 
+**Today's Progress**: Completed Lighthouse Labs and 24 Days of JavaScriptmas! Started my bootcamp (round 2 as I deferred due to illness). Met with a fellow programmer-in-training to collaborate on a tutorial based project. Also nearly hit 70wpm on MonkeyType! 
 
 **Thoughts**: Today was quite busy! I'm quite proud of my new highest typing speed, as I was a "hunt and peck" typer 5-6 months ago, with average touch typing speeds of 20-30wpm. I enjoyed meeting Ege to pair up on a project from Scrimba. I really want to take it a step further and customize our website (we are using the Scrimba tutorial to build it), rather than just following the tutorials.
 
 **Link(s) to work**:
 1. [Text Christmassifier - 24 Days of JavaScriptmas](https://scrimba.com/scrim/co87048ab91c24c66cdd556be)
 2. [Space Travel Website](https://github.com/caitlinw29/Space-Travel-Site)
+
+### Day 10: December 7, 2021
+
+**Today's Progress**: Completed Lighthouse Labs and 24 Days of JavaScriptmas! A day of bootcamp, completed the first mini-project (though I did most of it months ago). Completed 10 lessons of the Space Travel Website on Scrimba. 
+
+**Thoughts**: Today was fairly productive! I also agreed to write a blog post for TechTogether about the Seattle hackathon, so that makes me feel both excited and nervous. The JavaScriptmas challenge confused me a bit as the pause seemed to stop the music, not pause it where it currently was in the music track. Will have to look into that some more. 
+
+**Link(s) to work**:
+1. [Play Christmas Music - 24 Days of JavaScriptmas](https://scrimba.com/scrim/co9f74cc79288b6aa0028361e)
+2. [Space Travel Website](https://github.com/caitlinw29/Space-Travel-Site)
+3. [Mini-project: Landing Page](https://github.com/caitlinw29/landing-page-sample)
 
