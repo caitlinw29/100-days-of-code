@@ -1,8 +1,7 @@
 # 100 Days Of Code - Log
 
-
-## Table of Contents
-[1](#Day 1) [2](#Day 2) [3](#Day 3) [4](#Day 4) [5](#Day 5) [6](#Day 6) [7](#Day 7) [8](#Day 8) [9](#Day 9) [10](#Day 10) [11](#Day 11) 
+## Quick Links to Days
+[1](#Day 1: November 28, 2021) [2](#Day 2) [3](#Day 3) [4](#Day 4) [5](#Day 5) [6](#Day 6) [7](#Day 7) [8](#Day 8) [9](#Day 9) [10](#Day 10) [11](#Day 11) 
 
 ### Day 1: November 28, 2021
 
