@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ## Quick Links to Days
-[1](#Day 1: November 28, 2021) [2](#Day 2) [3](#Day 3) [4](#Day 4) [5](#Day 5) [6](#Day 6) [7](#Day 7) [8](#Day 8) [9](#Day 9) [10](#Day 10) [11](#Day 11) 
+[1](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-1-november-28-2021) [2](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-1-november-29-2021) [3](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-1-november-30-2021) [4](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-1-december-1-2021) [5](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-1-december-2-2021) [6](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-1-december-3-2021) [7](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-1-december-4-2021) [8](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-1-december-5-2021) [9](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-1-december-6-2021) [10](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-1-december-7-2021) [11](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-1-december-8-2021) 
 
 ### Day 1: November 28, 2021
 
