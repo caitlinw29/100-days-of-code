@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+
+## Table of Contents
+[1](#Day 1) [2](#Day 2) [3](#Day 3) [4](#Day 4) [5](#Day 5) [6](#Day 6) [7](#Day 7) [8](#Day 8) [9](#Day 9) [10](#Day 10) [11](#Day 11) 
+
 ### Day 1: November 28, 2021
 
 **Today's Progress**: I've completed Ania Kubow's Snake game tutorial on Scrimba (with the goal of using this base for a personalized Snake game called Ants Go Marching).
@@ -102,4 +106,14 @@
 1. [Play Christmas Music - 24 Days of JavaScriptmas](https://scrimba.com/scrim/co9f74cc79288b6aa0028361e)
 2. [Space Travel Website](https://github.com/caitlinw29/Space-Travel-Site)
 3. [Mini-project: Landing Page](https://github.com/caitlinw29/landing-page-sample)
+
+### Day 11: December 8, 2021
+
+**Today's Progress**: Completed Lighthouse Labs and 24 Days of JavaScriptmas! A day of bootcamp, focusing on Advanced CSS. Learned about Emmet through a Codepip game! Also worked on puzzle 8 for DevAdvent (not finished yet).
+
+**Thoughts**: I got my booster shot today so I took it a bit easy. Loved learning about Emmet!! DevAdvent was tricky, but I did get 13 tests working and 13 is better than 0. I think my problem might be that I'm messing up a for each loop somewhere, I'm more familiar with for. I'll probably start from scratch with the for loop and see if my problem is the less familiar syntax.
+
+**Link(s) to work**:
+1. [Bell Ringer - 24 Days of JavaScriptmas](https://scrimba.com/scrim/co52d4b0893f7bbb1ec403ab6)
+
 
