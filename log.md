@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ## Quick Links to Days
-[1](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-1-november-28-2021) [2](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-2-november-29-2021) [3](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-3-november-30-2021) [4](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-4-december-1-2021) [5](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-5-december-2-2021) [6](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-6-december-3-2021) [7](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-7-december-4-2021) [8](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-8-december-5-2021) [9](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-9-december-6-2021) [10](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-10-december-7-2021) [11](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-11-december-8-2021) [12](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-12-december-9-2021) [13](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-13-december-10-2021) [14](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-14-december-11-2021)
+[1](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-1-november-28-2021) [2](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-2-november-29-2021) [3](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-3-november-30-2021) [4](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-4-december-1-2021) [5](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-5-december-2-2021) [6](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-6-december-3-2021) [7](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-7-december-4-2021) [8](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-8-december-5-2021) [9](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-9-december-6-2021) [10](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-10-december-7-2021) [11](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-11-december-8-2021) [12](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-12-december-9-2021) [13](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-13-december-10-2021) [14](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-14-december-11-2021) [15](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-15-december-12-2021)
 
 ### Day 1: November 28, 2021
 
@@ -145,5 +145,13 @@
 **Link(s) to work**:
 1. [Christmas Carousel - 24 Days of JavaScriptmas](https://scrimba.com/scrim/cof9f471eaf906f72f06e7f55)
 
+### Day 15: December 12, 2021
 
+**Today's Progress**: Completed Lighthouse Labs (final challenge today, so I completed all 21 days!) and 24 Days of JavaScriptmas! Reviewed Flexbox with Flexbox Froggy on codepip. Reviewed my notes for my bootcamp, and studied ahead for JS. Also got about 75% through Wes Bos's free Command Line course. 
+
+**Thoughts**: Lighthouse labs was lots of fun, I'm proud that I completed all 21 tasks! I'm looking forward to starting JavaScript in my bootcamp. The command line course is mostly review, but has given me some cool tips for sure!
+
+**Link(s) to work**:
+1. [Christmas Guest List - 24 Days of JavaScriptmas](https://scrimba.com/scrim/co29b4353a6de03f005b6b59b)
+2. [Wes Bos' Command Line course](https://commandlinepoweruser.com/)
 
