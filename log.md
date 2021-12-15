@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ## Quick Links to Days
-[1](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-1-november-28-2021) [2](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-2-november-29-2021) [3](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-3-november-30-2021) [4](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-4-december-1-2021) [5](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-5-december-2-2021) [6](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-6-december-3-2021) [7](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-7-december-4-2021) [8](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-8-december-5-2021) [9](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-9-december-6-2021) [10](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-10-december-7-2021) [11](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-11-december-8-2021) [12](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-12-december-9-2021) [13](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-13-december-10-2021) [14](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-14-december-11-2021) [15](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-15-december-12-2021) [16](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-16-december-13-2021)
+[1](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-1-november-28-2021) [2](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-2-november-29-2021) [3](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-3-november-30-2021) [4](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-4-december-1-2021) [5](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-5-december-2-2021) [6](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-6-december-3-2021) [7](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-7-december-4-2021) [8](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-8-december-5-2021) [9](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-9-december-6-2021) [10](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-10-december-7-2021) [11](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-11-december-8-2021) [12](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-12-december-9-2021) [13](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-13-december-10-2021) [14](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-14-december-11-2021) [15](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-15-december-12-2021) [16](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-16-december-13-2021) [17](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-17-december-14-2021)
 
 ### Day 1: November 28, 2021
 
@@ -164,4 +164,13 @@
 **Link(s) to work**:
 1. [Christmas Dinner Calculator - 24 Days of JavaScriptmas](https://scrimba.com/scrim/co5864ca4ad5964e4e8bdbe37)
 2. [Rock, Paper, Scissors Repo](https://github.com/caitlinw29/Rock-Paper-Scissors)
+
+### Day 17: December 14, 2021
+
+**Today's Progress**: Completed 24 Days of JavaScriptmas! Reviewed Flexbox with Flexbox Froggy Pro on codepip, and Flexbox Zombies. Focused on JavaScript in my bootcamp today. 20 challenges completed on Edabit! Read Part 1 of Learning Web Design by Jennifer Niederst Robbins. 
+
+**Thoughts**: Today was primarily spent on review of JavaScript, with practice of other concepts added in. I think I'm getting the hang of for loops, and even feel somewhat confident with targeting "this". For JavaScriptmas, I had no idea there was a cloneNode method!
+
+**Link(s) to work**:
+1. [Lonely Elf (Cloning) - 24 Days of JavaScriptmas](https://scrimba.com/scrim/codd942f9ab861c5b308d6129)
 
