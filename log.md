@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ## Quick Links to Days
-[1](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-1-november-28-2021) [2](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-2-november-29-2021) [3](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-3-november-30-2021) [4](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-4-december-1-2021) [5](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-5-december-2-2021) [6](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-6-december-3-2021) [7](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-7-december-4-2021) [8](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-8-december-5-2021) [9](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-9-december-6-2021) [10](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-10-december-7-2021) [11](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-11-december-8-2021) [12](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-12-december-9-2021) [13](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-13-december-10-2021) [14](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-14-december-11-2021) [15](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-15-december-12-2021) [16](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-16-december-13-2021) [17](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-17-december-14-2021) [18](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-18-december-15-2021)
+[1](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-1-november-28-2021) [2](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-2-november-29-2021) [3](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-3-november-30-2021) [4](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-4-december-1-2021) [5](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-5-december-2-2021) [6](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-6-december-3-2021) [7](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-7-december-4-2021) [8](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-8-december-5-2021) [9](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-9-december-6-2021) [10](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-10-december-7-2021) [11](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-11-december-8-2021) [12](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-12-december-9-2021) [13](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-13-december-10-2021) [14](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-14-december-11-2021) [15](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-15-december-12-2021) [16](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-16-december-13-2021) [17](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-17-december-14-2021) [18](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-18-december-15-2021) [19](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-19-december-16-2021)
 
 ### Day 1: November 28, 2021
 
@@ -183,4 +183,14 @@
 **Link(s) to work**:
 1. [Festive Translator - 24 Days of JavaScriptmas](https://scrimba.com/scrim/coeee4a2d8bfe5e99e543dc43)
 2. [Random Password Generator](https://github.com/caitlinw29/password-generator)
+
+### Day 19: December 16, 2021
+
+**Today's Progress**: Completed 24 Days of JavaScriptmas! Attended Scrimba's Twitter Space for non-technical coding interview questions during my lunch. Solved a problem on HackerRank, multiple on Edabit. Read intro to CTCI. Finished a pond in Flexbox Froggy. Also completed CSS Surgeon. Focused on APIs in bootcamp today. Spent about 5 hours in study sessions with my peers.
+
+**Thoughts**: Super tired today, maxed out my social interaction. Feeling pretty confident in my bootcamp, which really makes me realize how much I have learned! 
+
+**Link(s) to work**:
+1. [Movie Generator - 24 Days of JavaScriptmas](https://scrimba.com/scrim/coe03438d952760cae5e2ab5b)
+
 
