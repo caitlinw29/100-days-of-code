@@ -1,7 +1,8 @@
 # 100 Days Of Code - Log
 
 ## Quick Links to Days
-[1](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-1-november-28-2021) [2](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-2-november-29-2021) [3](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-3-november-30-2021) [4](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-4-december-1-2021) [5](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-5-december-2-2021) [6](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-6-december-3-2021) [7](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-7-december-4-2021) [8](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-8-december-5-2021) [9](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-9-december-6-2021) [10](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-10-december-7-2021) [11](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-11-december-8-2021) [12](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-12-december-9-2021) [13](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-13-december-10-2021) [14](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-14-december-11-2021) [15](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-15-december-12-2021) [16](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-16-december-13-2021) [17](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-17-december-14-2021) [18](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-18-december-15-2021) [19](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-19-december-16-2021) [20](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-20-december-17-2021)
+[1](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-1-november-28-2021) [2](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-2-november-29-2021) [3](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-3-november-30-2021) [4](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-4-december-1-2021) [5](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-5-december-2-2021) [6](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-6-december-3-2021) [7](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-7-december-4-2021) [8](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-8-december-5-2021) [9](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-9-december-6-2021) [10](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-10-december-7-2021) [11](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-11-december-8-2021) [12](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-12-december-9-2021) [13](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-13-december-10-2021) [14](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-14-december-11-2021) [15](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-15-december-12-2021) [16](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-16-december-13-2021) [17](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-17-december-14-2021) [18](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-18-december-15-2021) [19](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-19-december-16-2021) [20](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-20-december-17-2021) [21](https://github.com/caitlinw29/100-days-of-code/blob/master/log.md#day-21-december-19-2021)
+
 
 ### Day 1: November 28, 2021
 
@@ -204,4 +205,14 @@
 2. [Word Guessing Game](https://github.com/caitlinw29/word-guess-game)
 3. [Larger or Smaller Game](https://github.com/caitlinw29/larger-or-smaller)
 4. [Article for TechTogether Hackathon](https://medium.com/techtogether/attending-a-hackathon-with-social-anxiety-my-experience-d7c2b2e41011)
+
+
+### Day 21: December 19, 2021
+
+**Today's Progress**: Solved a couple problems on HackerRank and Edabit. Finished a pond in Flexbox Froggy. Spent some time on the word guessing game mini-project.
+
+**Thoughts**: Took a day off yesterday (I plan on Saturdays being my regular rest day during this bootcamp, when I can manage it). Didn't do too much today since I had some non-coding related tasks to do. Tomorrow we review jQuery in camp, which will be great since I really don't remember/use jQuery.
+
+**Link(s) to work**:
+2. [Word Guessing Game](https://github.com/caitlinw29/word-guess-game)
 
