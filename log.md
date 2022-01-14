@@ -409,8 +409,9 @@ I'm starting to feel a bit more confident with Figma! I'm still working on set-u
 
 ### Day 42: January 13, 2022
 
-**Today's Progress**: Led a review session with my classmates! Completed a few lessons in Wes Bos's Node.js course. Lots of OOP today! 
+**Today's Progress**: Led a review session with my classmates! Completed a few lessons in Wes Bos's Node.js course. Lots of OOP today! Edit: Figured out the issue from yesterday! The API fetch is now working after pulling in the user input from inquirer!
 
-**Thoughts**: Had a doctor appointment so I didn't get as much done outside of class, but I definitely coded plenty. Going to try and knock out a few more lessons from the OOP unit before bed. 
+**Thoughts**: Had a doctor appointment so I didn't get as much done outside of class, but I definitely coded plenty. Going to try and knock out a few more lessons from the OOP unit before bed. Edit: I'm SO proud of sticking with it and figuring out the pokemon api call! 
 
-
+**Link(s) to work**:
+1. [Inquirer practice](https://github.com/caitlinw29/node-practice-pokemon)
